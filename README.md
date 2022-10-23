@@ -1,5 +1,3 @@
-# jailbreak-themes-on-a-non-jailbroken-iphone-windows-repo-tool-
-
 # Jailbreak themes on a non jailbroken iPhone (Windows Repo Tool)
 *Windows Repo Tool Method*
 
